@@ -1,0 +1,35 @@
+G:\Computing\VBCS\CS - T3\CS - T3\bin\Debug\CS - T3.exe.config
+G:\Computing\VBCS\CS - T3\CS - T3\bin\Debug\CS - T3.exe
+G:\Computing\VBCS\CS - T3\CS - T3\bin\Debug\CS - T3.pdb
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS___T3.FrmGame.resources
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS___T3.Properties.Resources.resources
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.csproj.GenerateResource.Cache
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.csproj.CoreCompileInputs.cache
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.exe
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.pdb
+G:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\CS - T3.exe.config
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\obj\Debug\CS - T3.exe
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\obj\Debug\CS - T3.pdb
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\CS - T3.exe
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\CS - T3.pdb
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\mscorlib.dll
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\normidna.nlp
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\normnfc.nlp
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\normnfd.nlp
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\normnfkc.nlp
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\bin\Debug\normnfkd.nlp
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\obj\Debug\CS - T3.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\obj\Debug\CS___T3.FrmGame.resources
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\obj\Debug\CS___T3.Properties.Resources.resources
+U:\Visual Studio 2012\Projects\CS - T3\CS - T3\obj\Debug\CS - T3.csproj.GenerateResource.Cache
+F:\Computing\VBCS\CS - T3\CS - T3\bin\Debug\CS - T3.exe.config
+F:\Computing\VBCS\CS - T3\CS - T3\bin\Debug\CS - T3.exe
+F:\Computing\VBCS\CS - T3\CS - T3\bin\Debug\CS - T3.pdb
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.csprojResolveAssemblyReference.cache
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS___T3.FrmGame.resources
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS___T3.Properties.Resources.resources
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.csproj.GenerateResource.cache
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.csproj.CoreCompileInputs.cache
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.exe
+F:\Computing\VBCS\CS - T3\CS - T3\obj\Debug\CS - T3.pdb
